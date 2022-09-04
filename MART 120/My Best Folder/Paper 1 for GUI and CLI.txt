@@ -1,0 +1,5 @@
+GUI - or Graphical user interface is more user-friendly and
+is a cleaner cut than the CLI - command line. Command line can be
+less forgiving and difficult to remember all the commands to find
+a certain item or do a certain thing. Whereas GUI is up-front about
+where things go and how to do a certain thing with the search bar.
